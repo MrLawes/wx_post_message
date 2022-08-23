@@ -1,7 +1,7 @@
 name: sendMessage
 on:
   schedule:
-    - cron: '00 23 * * *'
+    - cron: '14 40 * * *'
   workflow_dispatch:
 
 jobs:
